@@ -1,0 +1,11 @@
+C:\Users\larsp\source\repos\Dental\Dental\bin\Debug\Dental.exe.config
+C:\Users\larsp\source\repos\Dental\Dental\bin\Debug\Dental.exe
+C:\Users\larsp\source\repos\Dental\Dental\bin\Debug\Dental.pdb
+C:\Users\larsp\source\repos\Dental\Dental\obj\Debug\Dental.csproj.AssemblyReference.cache
+C:\Users\larsp\source\repos\Dental\Dental\obj\Debug\Dental.Form1.resources
+C:\Users\larsp\source\repos\Dental\Dental\obj\Debug\Dental.PatientRecord.resources
+C:\Users\larsp\source\repos\Dental\Dental\obj\Debug\Dental.Properties.Resources.resources
+C:\Users\larsp\source\repos\Dental\Dental\obj\Debug\Dental.csproj.GenerateResource.cache
+C:\Users\larsp\source\repos\Dental\Dental\obj\Debug\Dental.csproj.CoreCompileInputs.cache
+C:\Users\larsp\source\repos\Dental\Dental\obj\Debug\Dental.exe
+C:\Users\larsp\source\repos\Dental\Dental\obj\Debug\Dental.pdb
